@@ -48,3 +48,4 @@
         * Code Style
             * Modifiers
                 - Prefer explicit/implicit private modifier for type members: *Implicit*
+                - Prefer explicit/implicit internal modifier for types: *Implicit*
