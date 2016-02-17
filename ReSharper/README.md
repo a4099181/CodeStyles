@@ -45,6 +45,10 @@
                 - Interface Implementations
                 - All other members
                 - Nested Types
+            * MSpec pattern
+                - Non static private fields
+                - Static private fields
+                - All other members
         * Code Style
             * Modifiers
                 - Prefer explicit/implicit private modifier for type members: *Implicit*
