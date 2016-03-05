@@ -34,6 +34,15 @@
                     - Wrap after "(" in invocation: *True*
                     - Wrap extends/implements list: *Chop if long*
                     - Wrap array initializer: *Chop if long*
+                * Spaces
+                    - Space around multiplicative: *True*
+                    - Space within array access brackets: *True*
+                    - Space within for parentheses: *True*
+                    - Space within method call parentheses: *True*
+                    - Space within method parentheses: *True*
+                    - Space within parentheses: *True*
+                    - Space within typecast parentheses: *True*
+                    - Space within typeof parentheses: *True*
         * File Layout
             * Default pattern
                 - Public Delegates
