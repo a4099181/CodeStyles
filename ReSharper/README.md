@@ -27,7 +27,7 @@
         * Formatting Style
             * Line Breaks and Wrapping
                 * Line Wrapping
-                    - Right margin (columns): *75*
+                    - Right margin (columns): *80*
                     - Wrap formal parameters: *Chop if long*
                     - Wrap after "(" in declaration: *True*
                     - Wrap invocation arguments: *Chop if long*
