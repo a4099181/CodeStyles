@@ -37,6 +37,7 @@
                 * Spaces
                     - Space around multiplicative: *True*
                     - Space within array access brackets: *True*
+                    - Space within fixed parentheses: *True*
                     - Space within for parentheses: *True*
                     - Space within method call parentheses: *True*
                     - Space within method parentheses: *True*
