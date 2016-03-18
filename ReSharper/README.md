@@ -53,7 +53,7 @@
                 - Constructors
                 - Properties, Indexers (order by: access, name)
                 - Interface Implementations
-                - All other members
+                - All other members (order by: access, static, name)
                 - Nested Types
             * MSpec pattern
                 - Non static private fields
