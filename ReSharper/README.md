@@ -18,6 +18,10 @@
             * C#
                 - Apply file layout
                 - Update file header
+                * Code styles
+                    - Use explicit or implicit modifier definition for types
+                    - Use explicit or implicit modifier definition for type members
+                - Remove code redundancies
                 * Optimize 'using' directives
                     - Optimize 'using' directives
                 - Reformat code
