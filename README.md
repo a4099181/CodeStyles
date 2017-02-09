@@ -7,5 +7,6 @@ Clone this repo anywhere you want or add it as a submodule to your repository.
 Then register desired configuration files into your development environment.
 
 ####Supported tools:
+* EditorConfig
 * Resharper
 
