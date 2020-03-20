@@ -40,14 +40,14 @@
                     - Wrap array initializer: *Chop if long*
                 * Spaces
                     - Space around multiplicative: *True*
-                    - Space within array access brackets: *True*
-                    - Space within fixed parentheses: *True*
-                    - Space within for parentheses: *True*
-                    - Space within method call parentheses: *True*
-                    - Space within method parentheses: *True*
-                    - Space within parentheses: *True*
-                    - Space within typecast parentheses: *True*
-                    - Space within typeof parentheses: *True*
+                    - Space within array access brackets: *False*
+                    - Space within fixed parentheses: *False*
+                    - Space within for parentheses: *False*
+                    - Space within method call parentheses: *False*
+                    - Space within method parentheses: *False*
+                    - Space within parentheses: *False*
+                    - Space within typecast parentheses: *False*
+                    - Space within typeof parentheses: *False*
         * File Layout
             * Default pattern
                 - Public Delegates
